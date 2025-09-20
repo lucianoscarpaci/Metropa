@@ -21,7 +21,10 @@ Ensuring advanced protection for urban infrastructure through cybersecurity and 
 
 ## 🚀 Getting Started
 To get started with the Smart Traffic Light System, follow these steps:
-1. **Clone the Repository**: `git clone https://github.com/lucianoscarpaci/Smart-Traffic-Light-System.git`
+1. **Clone the Repository**:
+```bash
+git clone https://github.com/lucianoscarpaci/Smart-Traffic-Light-System.git
+```
 2. **Load the Main Program**: Open the Arduino IDE and load the main program onto the boards.
 3. **Run the System**: Power the boards and observe the smart traffic light system in action.
 
