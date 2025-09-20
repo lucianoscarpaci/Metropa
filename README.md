@@ -27,8 +27,8 @@ To get started with the Metropa, follow these steps:
 3. 
 
 ## 🛠️ Requirements
-- **Hardware**: Arduino Uno and Arduino 101.
-- **Software**: Haskell, Nix, and Arduino IDE installed on your machine.
+- **Hardware**: 
+- **Software**: 
 1. 
 2. 
 3. 
