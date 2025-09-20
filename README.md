@@ -28,6 +28,7 @@ To get started with the Smart Traffic Light System, follow these steps:
 ## 🛠️ Requirements
 - **Hardware**: Arduino Uno and Arduino Nano.
 - **Software**: Haskell, Nix, and Arduino IDE installed on your machine.
+1. Start ```nix-shell```.
 - **Code Editor**: A code editor like VS Code.
 
 ## 🏃‍♂️ Usage
