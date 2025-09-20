@@ -1,7 +1,8 @@
-# 🚦🌆💡 Smart-Traffic-Light-System
+# 🚦🌆💡 Metropolia Core
 
 ## 📚 Introduction
-Welcome to the Smart Traffic Light System project! This innovative system is designed to enhance urban traffic management by integrating smart technology with traditional traffic lights. The system uses two Arduino boards: the Arduino Uno for controlling the pedestrian light system and the Arduino Nano for managing the traffic light system. 🚥
+Metropolia Core is a smart city 🚥 infrastructure project that uses a multi-layered data approach—integrating satellite, drone, and user phone data—to intelligently manage and optimize the flow of human foot traffic and interactions. Our goal is to create more efficient, safer, and livable cities, from futuristic designs like The Line to bustling metropolises like New York and Los Angeles.  
+
 
 ## ✨ Features
 - **Automated Traffic Control**: Automatically switches between red and green lights based on a timer.
@@ -29,7 +30,7 @@ To get started with the Smart Traffic Light System, follow these steps:
 3. **Run the System**: Power the boards and observe the smart traffic light system in action.
 
 ## 🛠️ Requirements
-- **Hardware**: Arduino Uno and Arduino Nano.
+- **Hardware**: Arduino Uno and Arduino 101.
 - **Software**: Haskell, Nix, and Arduino IDE installed on your machine.
 1. Start Nix shell:
    ```bash

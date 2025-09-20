@@ -1,3 +1,4 @@
+#include <CurieIMU.h>
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
 
@@ -5,8 +6,7 @@ void setup() {
 
 void loop() {
   // put your main code here, to run repeatedly:
-  digitalWrite(LED_BUILTIN, HIGH);
-  delay(500);
+  Serial.begin(9600);
   digitalWrite(LED_BUILTIN, LOW);
-  delay(500);
+  delay(1000);
 }
