@@ -1,7 +1,7 @@
-# 🚦🌆💡 Metropolia Core
+# 🚦🌆💡 Metropa
 
 ## 📚 Introduction
-Metropolia Core is a smart city 🚥 infrastructure project that uses a multi-layered data approach—integrating satellite, drone, and user phone data—to intelligently manage and optimize the flow of human foot traffic and interactions. Our goal is to create more efficient, safer, and livable cities, from futuristic designs like The Line to bustling metropolises like New York and Los Angeles.  
+Metropa is a smart city 🚥 infrastructure project that uses a multi-layered data approach—integrating satellite, drone, and user phone data—to intelligently manage and optimize the flow of human foot traffic and interactions. Our goal is to create more efficient, safer, and livable cities, from futuristic designs like The Line to bustling metropolises like New York and Los Angeles.  
 
 
 ## ✨ Features
@@ -21,34 +21,22 @@ Ensuring advanced protection for urban infrastructure through cybersecurity and 
 - **Additional Prizes**: Unibee.dev (3 months subscription)
 
 ## 🚀 Getting Started
-To get started with the Smart Traffic Light System, follow these steps:
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/lucianoscarpaci/Smart-Traffic-Light-System.git
-   ```
-2. **Load the Main Program**: Open the Arduino IDE and load the main program onto the boards.
-3. **Run the System**: Power the boards and observe the smart traffic light system in action.
+To get started with the Metropa, follow these steps:
+1. 
+2.
+3. 
 
 ## 🛠️ Requirements
 - **Hardware**: Arduino Uno and Arduino 101.
 - **Software**: Haskell, Nix, and Arduino IDE installed on your machine.
-1. Start Nix shell:
-   ```bash
-   nix-shell
-   ```
-2. Run the following commands to install both the AVR core and Intel arc32 core.
-   ```bash
-   arduino-cli core install arduino:avr Intel:arc32
-   ```
-3. Once the core is installed, you can compile and flash your sketch. Navigate to the project directory and run:
-   ```bash
-   ./flash
-   ```
+1. 
+2. 
+3. 
 - **Code Editor**: A code editor like VS Code.
 
 ## 🏃‍♂️ Usage
-- **Press the Green Button**: Activates the pedestrian light for 30 seconds.
-- **Automatic Transition**: After 30 seconds, the signal transitions to red on the Arduino Nano.
+- 
+-
 
 ## 🤝 Contributing
 We welcome contributions! Please fork the repository and submit a pull request for any improvements or features you'd like to add.
