@@ -29,6 +29,12 @@ To get started with the Smart Traffic Light System, follow these steps:
 - **Hardware**: Arduino Uno and Arduino Nano.
 - **Software**: Haskell, Nix, and Arduino IDE installed on your machine.
 1. Start ```nix-shell```.
+2. Run the following commands to install both the AVR core and Intel arc32 core.
+```arduino-cli core install arduino:avr
+   arduino-cli core install Intel:arc32
+```
+3. Once the core is installed, you can compile and flash your sketch. Navigate to the project directory and run:
+```./flash```
 - **Code Editor**: A code editor like VS Code.
 
 ## 🏃‍♂️ Usage
