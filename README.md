@@ -1,7 +1,7 @@
-# Smart-Traffic-Light-System
+# Smart-Traffic-Light-System 🚗🏙️💻
 
 ## Introduction
-This project is a Smart Traffic Light System that blinks Red for stop, and Green for go. It has two boards the arduino uno, and the arduino nano. The arduino uno is used to control the pedestrian light system and the arduino nano is used to control the traffic light system.
+This project is a Smart Traffic Light System 🚥 that blinks Red for stop, and Green for go. It has two boards the arduino uno, and the arduino nano. The arduino uno is used to control the pedestrian light system and the arduino nano is used to control the traffic light system.
 
 The green button is pressed on the Arduino Uno, and it remains active for 30 seconds. After the 30-second duration on the Arduino Uno, the signal transitions to red on the Arduino Nano. 
 
