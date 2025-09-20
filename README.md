@@ -1,37 +1,41 @@
-# Smart-Traffic-Light-System 🚗🏙️💻
+# Smart-Traffic-Light-System 🚦🌆💡
 
-## Introduction
-This project is a Smart Traffic Light System 🚥 that blinks Red for stop, and Green for go. It has two boards the arduino uno, and the arduino nano. The arduino uno is used to control the pedestrian light system and the arduino nano is used to control the traffic light system.
+## Introduction 📚
+Welcome to the Smart Traffic Light System project! This innovative system is designed to enhance urban traffic management by integrating smart technology with traditional traffic lights. The system uses two Arduino boards: the Arduino Uno for controlling the pedestrian light system and the Arduino Nano for managing the traffic light system. 🚥
 
-The green button is pressed on the Arduino Uno, and it remains active for 30 seconds. After the 30-second duration on the Arduino Uno, the signal transitions to red on the Arduino Nano. 
+## Features ✨
+- **Automated Traffic Control**: Automatically switches between red and green lights based on a timer.
+- **Pedestrian Integration**: Allows pedestrians to safely cross streets with a dedicated button.
+- **Serial Communication**: Connects the traffic and pedestrian systems for synchronized operation.
+- **Cybersecurity Focus**: Incorporates advanced protection for urban infrastructure.
 
-The traffic light system is connected to the pedestrian light system through serial communication. 
-
-## Track Details
-
-# 04 Smart Cities & Cybersecurity 🛡️
-
+## Track Details 🛡️
+### 04 Smart Cities & Cybersecurity
 Ensuring advanced protection for urban infrastructure through cybersecurity and blockchain-powered solutions.
 
-Focus Areas: Cybersecurity, Blockchain Systems, Infrastructure Protection, Emergency Systems.
+- **Focus Areas**: Cybersecurity, Blockchain Systems, Infrastructure Protection, Emergency Systems.
+- **Prize Pool Value**: $625+
+- **Featured Track**: Extra prizes for security innovations.
+- **Main Sponsor**: Harshith Vaddiparthy ($625 prize value)
+- **Additional Prizes**: Unibee.dev (3 months subscription)
 
-    Prize Pool Value: $625+
-    Featured Track with extra prizes for security innovations
-    Main Sponsor: Harshith Vaddiparthy ($625 prize value)
-    Additional Prizes: Unibee.dev (3 months subscription)
-
-# Getting started
+## Getting Started 🚀
 To get started with the Smart Traffic Light System, follow these steps:
-1. Clone the repository to your local machine.
-2. Load the main program.
-3. Run the smart traffic light system.
+1. **Clone the Repository**: `git clone https://github.com/lucianoscarpaci/Smart-Traffic-Light-System.git`
+2. **Load the Main Program**: Open the Arduino IDE and load the main program onto the boards.
+3. **Run the System**: Power the boards and observe the smart traffic light system in action.
 
-# Requirements
-1. Arduino Uno and Arduino Nano.
-2. Haskell, Nix, and Arduino IDE installed on your machine.
-3. A code editor like VS Code.
+## Requirements 🛠️
+- **Hardware**: Arduino Uno and Arduino Nano.
+- **Software**: Haskell, Nix, and Arduino IDE installed on your machine.
+- **Code Editor**: A code editor like VS Code.
 
-# License
+## Usage 🏃‍♂️
+- **Press the Green Button**: Activates the pedestrian light for 30 seconds.
+- **Automatic Transition**: After 30 seconds, the signal transitions to red on the Arduino Nano.
+
+## Contributing 🤝
+We welcome contributions! Please fork the repository and submit a pull request for any improvements or features you'd like to add.
+
+## License 📄
 This project is licensed under the MIT License.
-
-
