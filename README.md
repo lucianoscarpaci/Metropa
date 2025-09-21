@@ -21,22 +21,15 @@ Ensuring advanced protection for urban infrastructure through cybersecurity and 
 - **Additional Prizes**: Unibee.dev (3 months subscription)
 
 ## 🚀 Getting Started
-To get started with the Metropa, follow these steps:
-1. 
-2.
-3. 
+To get started with the Metropola, follow these steps:
+1. Our Idea is in an early phase, this is a live demonstration.
 
 ## 🛠️ Requirements
 - **Hardware**: 
 - **Software**: 
-1. 
-2. 
-3. 
-- **Code Editor**: A code editor like VS Code.
+1. TypeScript, JavaScript, CSS, and HTML.
 
-## 🏃‍♂️ Usage
-- 
--
+- **Code Editor**: A code editor like VS Code.
 
 ## 🤝 Contributing
 We welcome contributions! Please fork the repository and submit a pull request for any improvements or features you'd like to add.
