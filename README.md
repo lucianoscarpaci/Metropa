@@ -24,8 +24,7 @@ Ensuring advanced protection for urban infrastructure through cybersecurity and 
 To get started with the Metropola, follow these steps:
 1. Our Idea is in an early phase, this is a live demonstration.
 
-## 🛠️ Requirements
-- **Hardware**: 
+## 🛠️ Requirements 
 - **Software**: 
 1. TypeScript, JavaScript, CSS, and HTML.
 
