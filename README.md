@@ -11,10 +11,10 @@ Metropola is a smart city 🚥 infrastructure project that uses a multi-layered 
 - **Cybersecurity Focus**: Incorporates advanced protection for urban infrastructure.
 
 ## 🛡️ Track Details
-### 04 Smart Cities & Cybersecurity
+### 03 Smart City Business Innovation (Tech Unicorn Track) 🦄
 Ensuring advanced protection for urban infrastructure through cybersecurity and blockchain-powered solutions.
 
-- **Focus Areas**: Cybersecurity, Blockchain Systems, Infrastructure Protection, Emergency Systems.
+- **Focus Areas**: Smart City Startups, Urban Marketing, Finance, Public Policy, Sustainable Economics, Urban Analytics, City Management.
 - **Prize Pool Value**: $625+
 - **Featured Track**: Extra prizes for security innovations.
 - **Main Sponsor**: Harshith Vaddiparthy ($625 prize value)
