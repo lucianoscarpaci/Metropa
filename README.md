@@ -1,7 +1,7 @@
-# 🚦🌆💡 Metropa
+# 🚦🌆💡 Metropola
 
 ## 📚 Introduction
-Metropa is a smart city 🚥 infrastructure project that uses a multi-layered data approach—integrating satellite, drone, and user phone data—to intelligently manage and optimize the flow of human foot traffic and interactions. Our goal is to create more efficient, safer, and livable cities, from futuristic designs like The Line to bustling metropolises like New York and Los Angeles.  
+Metropola is a smart city 🚥 infrastructure project that uses a multi-layered data approach—integrating satellite, drone, and user phone data—to intelligently manage and optimize the flow of human foot traffic and interactions. Our goal is to create more efficient, safer, and livable cities, from futuristic designs like The Line to bustling metropolises like New York and Los Angeles.  
 
 
 ## ✨ Features
